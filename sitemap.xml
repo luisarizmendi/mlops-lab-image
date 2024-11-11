@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop/00-intro.html</loc>
+<lastmod>2024-11-11T11:04:27.918Z</lastmod>
+</url>
+<url>
+<loc>https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop/01-training.html</loc>
+<lastmod>2024-11-11T11:04:27.918Z</lastmod>
+</url>
+<url>
+<loc>https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop/02-building.html</loc>
+<lastmod>2024-11-11T11:04:27.918Z</lastmod>
+</url>
+<url>
+<loc>https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop/03-deploying.html</loc>
+<lastmod>2024-11-11T11:04:27.918Z</lastmod>
+</url>
+<url>
+<loc>https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop/99-summary.html</loc>
+<lastmod>2024-11-11T11:04:27.918Z</lastmod>
+</url>
+<url>
+<loc>https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop/index.html</loc>
+<lastmod>2024-11-11T11:04:27.918Z</lastmod>
+</url>
+</urlset>
