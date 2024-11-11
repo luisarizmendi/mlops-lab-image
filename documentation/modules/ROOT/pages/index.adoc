@@ -18,13 +18,17 @@ BLAH BLAH INTRO
 
 [.tile]
 .xref:01-training.adoc[1. Training]
+* xref:00-intro.adoc#background[Background]
 
 [.tile]
 .xref:02-building.adoc[2. Building]
+* xref:00-intro.adoc#background[Background]
 
 [.tile]
 .xref:03-deploying.adoc[3. Deploying]
+* xref:00-intro.adoc#background[Background]
 
 [.tile]
 .xref:99-summary.adoc[Summary]
+* xref:00-intro.adoc#background[Background]
 
