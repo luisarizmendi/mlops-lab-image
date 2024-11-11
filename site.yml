@@ -3,7 +3,7 @@ runtime:
 
 site:
   title: MLOps workshop with RHDE and OpenShift AI
-  url: https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop:/index.html
+  url: https://luisarizmendi.github.io/mlops-lab-image
   start_page: mlops-workshop::index.adoc
 
 content:
