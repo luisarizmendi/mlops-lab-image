@@ -1,4 +1,4 @@
-* xref:00-intro.adoc[0. Intro]
+* xref:00-intro.adoc[Intro]
 ** xref:00-intro.adoc#background[Background]
 ** xref:00-intro.adoc#environment[Environment]
 ** xref:00-intro.adoc#prerequisites[Prerequisites]
