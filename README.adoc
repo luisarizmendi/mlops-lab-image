@@ -1,1 +1,3 @@
-https://luisarizmendi.github.io/mlops-lab-image/mlops-workshop:/index.html
+# MLOps Workshop with RHDE and OpenShift AI
+
+Find the workshop contents in: https://luisarizmendi.github.io/mlops-lab-image
