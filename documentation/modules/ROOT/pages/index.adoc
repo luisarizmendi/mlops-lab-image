@@ -15,16 +15,8 @@ BLAH BLAH INTRO
 * xref:00-intro.adoc#background[Background]
 * xref:00-intro.adoc#environment[Environment]
 * xref:00-intro.adoc#prerequisites[Prerequisites]
-
-[.tile]
 .xref:01-training.adoc[1. Training]
-
-[.tile]
 .xref:02-building.adoc[2. Building]
-
-[.tile]
 .xref:03-deploying.adoc[3. Deploying]
-
-[.tile]
 .xref:99-summary.adoc[Summary]
 
