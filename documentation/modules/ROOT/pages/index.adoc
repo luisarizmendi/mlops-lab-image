@@ -1,20 +1,33 @@
-= Welcome to Template Tutorial
+= Welcome to MLOps workshop with RHDE and OpenShift AI
 :page-layout: home
 :!sectids:
 
 [.text-center.strong]
-== Publish Services to Kubernetes
+== BLAH BLAH INTRO
 
-A Kubernetes tutorial to show how you can deploy a Java service to a Kubernetes cluster as it was a child game.
+BLAH BLAH INTRO
 
 [.tiles.browse]
 == Browse modules
 
 [.tile]
-.xref:01-setup.adoc[Get Started]
-* xref:01-setup.adoc#minikube[Minikube]
+.xref:00-intro.adoc[0. Intro]
+* xref:00-intro.adoc#background[Background]
+* xref:00-intro.adoc#environment[Environment]
+* xref:00-intro.adoc#prerequisites[Prerequisites]
 
 [.tile]
-.xref:02-deploy.adoc[Deploying]
-* xref:02-deploy.adoc#package[Package the Application]
-* xref:02-deploy.adoc#deploy[Deploy the Application]
+.xref:01-training.adoc[1. Training]
+
+
+[.tile]
+.xref:02-building.adoc[2. Building]
+
+
+[.tile]
+.xref:03-deploying.adoc[3. Deploying]
+
+
+[.tile]
+. xref:99-summary.adoc[Summary]
+
