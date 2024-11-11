@@ -26,5 +26,5 @@ BLAH BLAH INTRO
 .xref:03-deploying.adoc[3. Deploying]
 
 [.tile]
-. xref:99-summary.adoc[Summary]
+.xref:99-summary.adoc[Summary]
 
