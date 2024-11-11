@@ -1,5 +1,5 @@
 name: mlops-workshop
-title: Template Tutorial
+title: MLOps Workshop
 version: master
 nav:
   - modules/ROOT/nav.adoc
